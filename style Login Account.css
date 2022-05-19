@@ -1,0 +1,86 @@
+a{
+    text-decoration: none;
+}
+body{
+    background: -webkit-linear-gradient(right,#eaff00,#d7e858);
+   
+}
+label{
+    font-family:"Bahnschrift SemiBold",sans-serif;
+    font-size: 14pt;
+}
+#forgot-pass{
+    color: rgb(84, 76, 76);
+    font-family:"Raleway",sans-serif;
+    font-size: 10pt;
+    margin-top: 3px;
+    text-align:right;
+
+}
+#card{
+    background:#F2FA5A;
+    border-radius:5px;
+    box-shadow: 2px 3px 8px rgb(45, 45, 45);
+    height: 300px;
+    margin: 6rem auto 8.1rem auto;
+    width:200px;
+}
+#card-content{
+    padding: 12px 44px;
+
+}
+#card-title{
+    font-family:"Bahnschrift SemiBold",sans-serif;
+    letter-spacing: 3px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
+#signup{
+    color: whitesmoke;
+    font-family: "Bahnschrift SemiBold",sans-serif;
+    font-size: 15pt;
+    margin-top: 16px;
+    text-align: right;
+}
+#submit-btn{
+    background: -webkit-linear-gradient(right,#bcbdbd,#393939);
+    border-radius: 21px;
+    border: none;
+    box-shadow: 0px 1px 8px #9ddad2;
+    cursor: pointer;
+    color:azure;
+    font-family:"Bahnschrift SemiBold",sans-serif;
+    height: 42.3px;
+    margin: 0 auto;
+    margin-top: 50px;
+    transition:0.30s;
+    width: 130px;
+}
+#submit-btn:hover{
+    box-shadow: 0px 1px 18px #00FFDD;
+}
+.form{
+
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+}
+.form-border{
+    height: 1px;
+    width : 5px;
+    background:-webkit-linear-gradient(right,#219F94,#54BAB9)
+}
+.form-content{
+    background: #ffffff;
+    border: 0;
+    outline: 0;
+    padding-top: 7px;
+}
+.underline-title{
+    background: -webkit-linear-gradient(right,#219F94,#54BAB9);
+    height: 2px;
+    margin: -1.1rem auto 0 auto;
+    width : 89px;
+    
+}
